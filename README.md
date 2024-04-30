@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><meta name="exporter-version" content="Evernote Mac 9.7.0 (472010)"/><meta name="altitude" content="0"/><meta name="author" content="Hila"/><meta name="created" content="2024-04-30 18:35:31 +0000"/><meta name="latitude" content="31.25918579101562"/><meta name="longitude" content="121.5064504292927"/><meta name="source" content="desktop.mac"/><meta name="updated" content="2024-04-30 18:36:53 +0000"/><meta name="content-class" content="yinxiang.markdown"/><title>README.md</title></head><body><div style="font-size: 14px; margin: 0; padding: 0; width: 100%;"><h3 style="line-height: 160%; box-sizing: content-box; font-weight: 700; font-size: 27px; color: #333;">2024春《计算机科学与编程入门》课程作业</h3>
 <p style="line-height: 160%; box-sizing: content-box; margin: 10px 0; color: #333;">涂婳 2000015929 光华管理学院</p>
 <h4 style="line-height: 160%; box-sizing: content-box; font-size: 20px; color: #333;">作业1</h4>
